@@ -244,7 +244,7 @@ Let's connect!
 ### Professional Channels
 - **Email**: [dimas.wibisono@citradata.id](mailto:dimas.wibisono@citradata.id)
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/dwjkt)
-- **Portfolio**: [yourportfolio.com](https://github.com/palmacitra)
+
 or follow me?
 - **Instagram**: @dizswma
 
