@@ -9,7 +9,7 @@
 
 ## About Me
 
-**Presales Engineer & Solutions Architect** specializing in **MOTOTRBO Digital Radio Systems** and **RF Infrastructure** at Motorola Solutions Indonesia.
+**Presales Engineer & Solutions Architect** currently, specializing in **Digital Radio Systems** and **RF Infrastructure**.
 
 ### Professional Background
 - **Current Role**: Presales Engineer & Solutions Architect (PT CITRADATA PURNAKHARISMA)
