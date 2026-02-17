@@ -243,7 +243,7 @@ Let's connect!
 
 ### Professional Channels
 - **Email**: [dimas.wibisono@citradata.id](mailto:dimas.wibisono@citradata.id)
-- **LinkedIn**: [linkedin.com/in/dwjkt] (https://linkedin.com/in/dwjkt)
+- **LinkedIn**: https://linkedin.com/in/dwjkt
 
 or follow me?
 - **Instagram**: @dizswma
