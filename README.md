@@ -165,7 +165,7 @@ RF coverage planning for challenging environments
 | **Capacity Plus Multi-Site** | Wide-area trunking | 3,000 | Regional |
 | **Linked Capacity Plus** | Cost-effective trunking | 1,500 | Regional |
 | **IP Site Connect** | Multi-site conventional | 240 per site | Wide-area |
-| **Connect Plus** | Large-scale trunking | 3,000+ | Metropolitan |
+| **Capacity Max** | Large-scale trunking | 3,000+ | Metropolitan |
 
 ### Industry Verticals
 - **Oil & Gas**: Offshore platforms, refineries, pipelines
